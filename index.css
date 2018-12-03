@@ -1,0 +1,62 @@
+.logo{
+    
+     background-image: url("https://www.fixpocket.com/beat/i-will-create-a-logos-and-also-make-redraw-work/?q=dm5JZ2paVGFmUWxleTZOeU1WbjZCUT09");
+}
+.bg{
+
+    background-image: url("");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.caption{
+    margin-left: 20%;
+    margin-top: 20%;
+    display: inline-block;
+    
+}
+  ul{
+    list-style-type: none;
+    margin-bottom:80px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 40%;
+    float: right;
+    margin-top:0px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display:inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.login{
+     background-color: grey;
+    border: none;
+    color: white;
+    padding: 5px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    
+}
+.register{
+     background-color: grey;
+    border: none;
+    color: white;
+    padding: 5px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
